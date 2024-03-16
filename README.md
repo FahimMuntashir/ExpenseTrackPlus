@@ -14,7 +14,7 @@ A total of 7 page-templates in plan
 7. Budgeting Tools
 
 
-###Back end development
+### Back end development
 1. Account Creating, Password Recover:
 a. Sign up form, verification by mobile or email.
 b. Login
@@ -29,7 +29,7 @@ c. Admin’s profile
 d. Others
 
 
-###Performance plan:
+### Performance plan:
 To ensure optimal performance, we will implement caching mechanisms, optimize
 database queries, and utilize content delivery networks (CDNs). Regular
 performance testing will be conducted to identify and address any bottlenecks.
@@ -42,7 +42,7 @@ Google Page evaluation
 • Average DOMLoading < 3sec
 • Maximum Page Loading time < 7 sec
 
-###Development Plan
+### Development Plan
 
 Phase 1 - Basic Functionality (4 weeks):
 * User registration and authentication
