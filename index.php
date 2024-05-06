@@ -60,11 +60,11 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a href="#home">Home</a></li>
-          <li><a href="#about">About</a></li>
+          <li><a href="pages/about.php">About</a></li>
           <li><a href="#services">Services</a></li>
           <li><a href="#team">Team</a></li>
           
-          <li><a href="#contact">Contact</a></li>
+          <li><a href="pages/contact.php">Contact</a></li>
         </ul>
 
       </nav><!-- .navbar -->
@@ -84,7 +84,7 @@
           <h2>Welcome to <span>ExpenseTrack+</span></h2>
           <p>Simple way to manage personal finances.</p>
           <div class="d-flex justify-content-center justify-content-lg-start">
-            <a href="#signup" class="btn-get-started">Get Started</a>
+            <a href="pages/signup.php" class="btn-get-started">Get Started</a>
             <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
           </div>
         </div>
@@ -132,7 +132,14 @@
 
     </div>
   </section>
+
+
+
   <!-- End Hero Section -->
+
+
+
+  
 
   
   <!-- Vendor JS Files -->
